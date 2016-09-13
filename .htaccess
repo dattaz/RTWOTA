@@ -1,0 +1,8 @@
+<Files "get_tweets.py">
+	Order Allow,Deny
+	Deny from all
+</Files>
+<Files "tweets.sqlite">
+	Order Allow,Deny
+	Deny from all
+</Files>
