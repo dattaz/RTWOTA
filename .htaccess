@@ -6,3 +6,7 @@
 	Order Allow,Deny
 	Deny from all
 </Files>
+<Files "TL.py">
+        Order Allow,Deny
+        Deny from all
+</Files>

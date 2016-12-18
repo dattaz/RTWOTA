@@ -33,6 +33,8 @@ then add this line to the file
 
 If you have or if your want to run your own RSS-Bridges, you should edit the url in get_tweets.py
 
+You can also read your feed in CLI mode using ``` python TL.py [path_to_database] [1 if you want answers] ```
+
 #Licence
 The style.css file is coming from [myleneb/theme_nin](https://github.com/myleneb/theme_nin)
 
